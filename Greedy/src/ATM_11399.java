@@ -32,7 +32,7 @@ import java.util.Scanner;
 --
 32
  * */
-public class ATM_1 {
+public class ATM_11399 {
 //인덱스+1의 사람의 대기시간 == a[인덱스] => 즉, 인덱스+1이 사람.
 //결국 작은 순대로 나열하면 되는 문제네
 	public static void main(String[] args) {

@@ -23,7 +23,7 @@ import java.util.Scanner;
 -----
 6
  * */
-public class Coin_0 {
+public class Coin_11047 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt(); // 동전의 종류
